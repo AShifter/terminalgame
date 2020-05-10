@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/Fonts/Font.spritefont","C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/bin/DesktopGL/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2028,21521,0.3799685
+"C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/Fonts/JetBrainsMono-Bold.ttf","C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/bin/DesktopGL\Fonts/JetBrainsMono-Bold.ttf","CopyItem","File",138692,138692,0.001952
+"C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/Fonts/JetBrainsMono-Italic.ttf","C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/bin/DesktopGL\Fonts/JetBrainsMono-Italic.ttf","CopyItem","File",141572,141572,0.0070024
+"C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/Fonts/JetBrainsMono-Regular.ttf","C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/bin/DesktopGL\Fonts/JetBrainsMono-Regular.ttf","CopyItem","File",136708,136708,0.0009976
+"C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/Textures/Pixel.png","C:/Users/Logan/source/repos/TerminalGame/TerminalGame/Content/bin/DesktopGL/Textures/Pixel.xnb","TextureProcessor","Texture2DContent",120,89,0.2389689
